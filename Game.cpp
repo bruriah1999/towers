@@ -26,3 +26,7 @@ std::ostream& operator<<(std::ostream & os, const Game & game) {
   }
   return os;
 }
+void Game::solve()
+{
+    std::cout<<"solve funstion wow"<<std::endl;
+}

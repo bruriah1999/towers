@@ -33,4 +33,4 @@ Cube &Stack::peekTop()
 unsigned Stack::size() const
 {
     return cubes_.size();
-}
+}          
